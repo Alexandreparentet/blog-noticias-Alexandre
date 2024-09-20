@@ -1,1 +1,4 @@
-# blog-noticias-Alexandre
+# Folc News
+
+Blog de notícias utilizando as Tags Semânticas do HTML e CSS.
+
