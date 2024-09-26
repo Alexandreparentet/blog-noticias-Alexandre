@@ -47,6 +47,14 @@ header span {
     color: var(--cor-pricipal);
 }
 
+.menu-responsivo {
+    display: none;
+}
+ 
+.menu-responsivo i {
+    font-size: 3rem;
+}
+
 nav ul {
     display: flex;
     flex-direction: row;
@@ -75,14 +83,6 @@ nav a:hover {
 /* ====Notícias==== */
 main {
     margin: 5rem auto;
-}
-
-.menu-responsivo {
-    display: none;
-}
-
-.menu-responsivo i {
-    font-size: 3rem;
 }
 
 article {
@@ -129,6 +129,7 @@ article:hover {
     font-weight: 700;
     color: var(--cor-pricipal);
     text-align: right;
+    padding: 1rem;
 }
 
 
